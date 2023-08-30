@@ -16,7 +16,8 @@ This is a labyrinth game implemented with C++, where you need to collect a treas
 
 ![image](https://github.com/Punchfire/DungueonGame/assets/114454111/6ea24e95-69bb-46ec-8002-d5964ed836d7) 
 
-![image](https://github.com/Punchfire/DungueonGame/assets/114454111/ea8f4514-9730-4843-8c2d-d3ff4375c55d)
+![image](https://github.com/Punchfire/DungueonGame/assets/114454111/ea8f4514-9730-4843-8c2d-d3ff4375c55d) 
+![image](https://github.com/Punchfire/DungueonGame/assets/114454111/e6874d2a-be1f-496f-a7e0-7ee932edc9af)
 
-![image](https://github.com/Punchfire/DungueonGame/assets/114454111/f9228d52-5975-495b-8183-6e0a24bf86d5)
 
+![image](https://github.com/Punchfire/DungueonGame/assets/114454111/7a50fd17-9fb8-40fc-aa85-894ed8765bf9)
