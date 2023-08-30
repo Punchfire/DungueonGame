@@ -1,0 +1,16 @@
+ _________________________________________________
+|                    CONTROLES                    |
+|  Salir -> "x"                                   |
+|                        _                        |
+|            Arriba -> _|w|_                      |
+|        Izquierda -> |a|s|d| <- Derecha          |
+|                        ^                        |
+|                        |                        |
+|                      Abajo                      |
+|                                                 |
+|   Consigue el tesoro -> $ para pasar de nivel   |
+|                                                 |
+|       Evita chocar con los enemigos -> *        |
+|                                                 |
+|            Press any key to start...            |
+|_________________________________________________|
